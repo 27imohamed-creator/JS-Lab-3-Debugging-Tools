@@ -13,3 +13,9 @@ console.log('text')
 
 
 /* 4. Take a screenshot of your console that shows "Hello from the Console!" */
+
+ document.write("Hello World!");
+ 
+ alert("Hello! I am an alert box!!")
+
+ console.log("Hello world!")
