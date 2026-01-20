@@ -1,10 +1,10 @@
 /* document.write('Text') displays text on the current page. */
 /* 1.  Use the document.write() method to display "Hello from JavaScript!" on the main page */
-
-
+document.write("Hello from Javascript")
+alert("Hello from a Pop-Up!")
 /* alert('Text') displays text in a pop up window */
 /* 2.  Use the alert() method to make a pop-up that says "Hello from a Pop-Up!" */
-
+console.log('text')
 
 /* console.log('Text') displays text in the console */
 /* you must open the console to see it */
